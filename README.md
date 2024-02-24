@@ -45,4 +45,3 @@ Unter **Ubuntu** ist es mit dieser [Anleitung](https://help.ubuntu.com/stable/ub
 
 Unter **Windows** eine Desktopverknüpfung anlegen und Anschließend das Eigenschaften Fenster öffnen, sobald der Cursor im Feld *Tastenkombination* ist auf der Tastatur <kbd>Strg</kbd> + <kbd>Alt</kbd> + <kbd>r</kbd> drücken. Jetzt nurnoch die Änderung speichern.
 
-
