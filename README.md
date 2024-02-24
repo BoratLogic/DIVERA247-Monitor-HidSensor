@@ -19,19 +19,19 @@ Aufwecken deines Monitor Computers aus dem Bildschirmschoner, durch Tastendruck 
 - 1x [Gummidurchführung](https://www.amazon.de/gp/product/B0919FYWQ1)
 ### Pläne
 #### Breadboard
-<img src="/doc/schematic/DIVERA247-Monitor-HidSensor_schematic_Breadboard.png" width="200" height="300"/>
+<img src="/doc/schematic/DIVERA247-Monitor-HidSensor_schematic_Breadboard.png" width="300" height="500" style="object-fit: contain"/>
 
 #### Schaltplan
-<img src="/doc/schematic/DIVERA247-Monitor-HidSensor_schematic_Schaltplan.png" width="200" height="300"/>
+<img src="/doc/schematic/DIVERA247-Monitor-HidSensor_schematic_Schaltplan.png" width="300" height="500" style="object-fit: contain"/>
 
 #### Verdrahtung<p>
-<img src="/doc/schematic/DIVERA247-Monitor-HidSensor_schematic.png" width="200" height="300"/>
+<img src="/doc/schematic/DIVERA247-Monitor-HidSensor_schematic.png" width="300" height="500" style="object-fit: contain"/>
 
 ### Gehäuse
 
 Bohrschablone ist im Aufkleber integriert
 <p>
-<img src="/doc/aufkleber/aufkleber.svg" width="200" height="300"/>
+<img src="/doc/aufkleber/aufkleber.svg" width="200" height="300" style="object-fit: contain"/>
 
 ## Software
 Installation des Codes auf dem Arduino via PlatformIO (GitHub Projekt öffnen)
