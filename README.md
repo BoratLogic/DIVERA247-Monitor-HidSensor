@@ -19,19 +19,19 @@ Aufwecken deines Monitor Computers aus dem Bildschirmschoner, durch Tastendruck 
 - 1x [Gummidurchführung](https://www.amazon.de/gp/product/B0919FYWQ1)
 ### Pläne
 #### Breadboard
-<div style="width:450px">
+<div style="width:200px;">
 
 ![Bild der Breadboardansicht](/doc/schematic/DIVERA247-Monitor-HidSensor_schematic_Breadboard.png "Breadboard ansicht")
 </div>
 
 #### Schaltplan
-<div style="width:450px">
+<div style="width:200px;">
 
 ![Bild des Schaltplans](/doc/schematic/DIVERA247-Monitor-HidSensor_schematic_Schaltplan.png "Schaltplan")
 </div>
 
 #### Verdrahtung
-<div style="width:450px">
+<div style="width:200px;">
 
 ![Bild des Schaltplans](/doc/schematic/DIVERA247-Monitor-HidSensor_schematic.png "Schaltplan")
 </div>
@@ -39,7 +39,7 @@ Aufwecken deines Monitor Computers aus dem Bildschirmschoner, durch Tastendruck 
 ### Gehäuse
 
 Bohrschablone ist im Aufkleber integriert
-<div style="width: 100; height:100px">
+<div style="width: 100;">
 
 ![Bild des Schaltplans](/doc/aufkleber/aufkleber.svg "Schaltplan")
 
