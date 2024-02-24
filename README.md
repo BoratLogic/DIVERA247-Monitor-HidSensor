@@ -1,4 +1,3 @@
-![GitHub License](https://img.shields.io/github/license/:user/:repo) ![GitHub Release](https://img.shields.io/github/v/release/:user/:repo) ![GitHub issue/pull request detail](https://img.shields.io/github/:issueKind/detail/:property/:user/:repo/:number)
 # DIVERA247-Monitor-HidSensor
 Das **Projekt DIVERA247-Monitor-HidSensor** stellt ein USB HID (Human Interface Device) als Tasterbox mit Bewegungsmelder bereit, um deinen Divera 24/7 Monitor zu steuern.
 
