@@ -19,34 +19,19 @@ Aufwecken deines Monitor Computers aus dem Bildschirmschoner, durch Tastendruck 
 - 1x [Gummidurchführung](https://www.amazon.de/gp/product/B0919FYWQ1)
 ### Pläne
 #### Breadboard
-<div style="width:200px;">
-
-![Bild der Breadboardansicht](/doc/schematic/DIVERA247-Monitor-HidSensor_schematic_Breadboard.png "Breadboard ansicht")
-</div>
+<img src="/doc/schematic/DIVERA247-Monitor-HidSensor_schematic_Breadboard.png" width="200" height="300"/>
 
 #### Schaltplan
-<div style="width:200px;">
+<img src="/doc/schematic/DIVERA247-Monitor-HidSensor_schematic_Schaltplan.png" width="200" height="300"/>
 
-![Bild des Schaltplans](/doc/schematic/DIVERA247-Monitor-HidSensor_schematic_Schaltplan.png "Schaltplan")
-</div>
-
-#### Verdrahtung
-<div style="width:200px;">
-
-![Bild des Schaltplans](/doc/schematic/DIVERA247-Monitor-HidSensor_schematic.png "Schaltplan")
-</div>
+#### Verdrahtung<p>
+<img src="/doc/schematic/DIVERA247-Monitor-HidSensor_schematic.png" width="200" height="300"/>
 
 ### Gehäuse
 
 Bohrschablone ist im Aufkleber integriert
 <p>
-<img src="/doc/aufkleber/aufkleber.svg" width="100" height="100"/>
-
-<div style="width:30">
-
-![Bild des Schaltplans](/doc/aufkleber/aufkleber.svg "Schaltplan")
-
-</div>
+<img src="/doc/aufkleber/aufkleber.svg" width="200" height="300"/>
 
 ## Software
 Installation des Codes auf dem Arduino via PlatformIO (GitHub Projekt öffnen)
