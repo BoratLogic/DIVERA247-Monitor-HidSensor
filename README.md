@@ -5,7 +5,7 @@ Das **Projekt DIVERA247-Monitor-HidSensor** stellt ein USB HID (Human Interface 
 
 ## Was kann die HIDSensor Box?
 Aufwecken deines Monitor Computers aus dem Bildschirmschoner, durch Tastendruck oder Bewegung. Neustarts des Computers durch einen langen Tastendruck.
-**Vorteil**; es ist keine Netzwerkonfiguration oder Treiber Installation erforderlich. Die Tastebox wird automatisch als USB HID (Human Interface Device) Gerät erkannt und ist mit den vorinstallierten Treibern aller Betriebssystemen kompatibel.
+**Vorteil**; es ist keine Netzwerkonfiguration oder Treiber Installation erforderlich. Die Tasterbox wird automatisch als USB HID (Human Interface Device) Gerät erkannt und ist mit den vorinstallierten Treibern aller Betriebssystemen kompatibel.
   
 ## Hardware
 ### Stückliste
@@ -36,13 +36,14 @@ Bohrschablone ist im Aufkleber integriert. [Druckvorlage für DinA4](/doc/aufkle
 <img src="/doc/aufkleber/aufkleber.svg" width="200" />
 
 ## Software
+### Firmware
 Installation des Codes auf dem Arduino via PlatformIO (GitHub Projekt öffnen)
 
 ODER
 
 via WebInstaller, hiermit ist keine Installation von Software auf deinem Computer nötig.
 
-## Betriebssystem einrichten
+### Betriebssystem einrichten
 Als Tastatur emulation wird bei Bewegung oder kurzem Tasterdruck die <kbd>Rollen</kbd> Taste gedrückt. Bei einem langen Tastendruck wird <kbd>Strg</kbd> + <kbd>Alt</kbd> + <kbd>r</kbd> kurz gedrückt gehalten.
 
 Somit muss der Tastatur Kurzbefehl nurnoch im Betriebssystem angelegt werden.
