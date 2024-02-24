@@ -39,7 +39,10 @@ Aufwecken deines Monitor Computers aus dem Bildschirmschoner, durch Tastendruck 
 ### Gehäuse
 
 Bohrschablone ist im Aufkleber integriert
-<div style="width: 100;">
+<p>
+<img src="/doc/aufkleber/aufkleber.svg" width="100" height="100"/>
+
+<div style="width:30">
 
 ![Bild des Schaltplans](/doc/aufkleber/aufkleber.svg "Schaltplan")
 
