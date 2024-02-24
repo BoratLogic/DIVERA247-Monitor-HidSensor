@@ -27,9 +27,11 @@ Aufwecken deines Monitor Computers aus dem Bildschirmschoner, durch Tastendruck 
 #### Verdrahtung<p>
 <img src="/doc/schematic/DIVERA247-Monitor-HidSensor_schematic.png" width="300"/>
 
+
+
 ### Gehäuse
 
-Bohrschablone ist im Aufkleber integriert
+Bohrschablone ist im Aufkleber integriert. [Druckvorlage für DinA4](/doc/aufkleber/MonitorButtonAufkleber_A4.pdf)
 <p>
 <img src="/doc/aufkleber/aufkleber.svg" width="200" />
 
