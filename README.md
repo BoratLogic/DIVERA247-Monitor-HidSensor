@@ -1,6 +1,9 @@
 # DIVERA247-Monitor-HidSensor
 Das **Projekt DIVERA247-Monitor-HidSensor** stellt ein USB HID (Human Interface Device) als Tasterbox mit Bewegungsmelder bereit, um deinen Divera 24/7 Monitor zu steuern.
 
+<img src="doc/pic/tasterbox.jpeg" width="200"/>
+
+
 ## Was kann die HIDSensor Box?
 Aufwecken deines Monitor Computers aus dem Bildschirmschoner, durch Tastendruck oder Bewegung. Neustarts des Computers durch einen langen Tastendruck.
 **Vorteil**; es ist keine Netzwerkonfiguration oder Treiber Installation erforderlich. Die Tasterbox wird automatisch als USB HID (Human Interface Device) Gerät erkannt und ist mit den vorinstallierten Treibern aller Betriebssystemen kompatibel.
