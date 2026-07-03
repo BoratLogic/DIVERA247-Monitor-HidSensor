@@ -10,9 +10,9 @@ Aufwecken deines Monitor Computers aus dem Bildschirmschoner, durch Tastendruck 
 #### Notwendig
 - 1x [Leuchtdrucktaster (optional auch mehrere möglich)](https://www.amazon.de/dp/B088CNW12P)
 - 1x [SR602 Infrarot Bewegungssensor](https://www.amazon.de/gp/product/B07XG734RZ)
-- 1x Arduino kompatibles *Atmega32U4* Entwicklerboard (Ardiono Micro; [DUBEUYEW Pro Micro Atmega32U4](https://www.amazon.de/dp/B0B7KXZN1D); o.ä.)
+- 1x Arduino kompatibles *Atmega32U4* Entwicklerboard (Ardiono Micro; [Pro Micro Atmega32U4](https://amzn.eu/d/0b8HCNVF); o.ä.)
 - 1x [Micro USB Kabel](https://www.amazon.de/dp/B09983XPM9)
-- 1x [Kunststoffgehäuse](https://pages.github.com/)
+- 1x [Kunststoffgehäuse](https://amzn.eu/d/0aNqapxW)
 #### Optional
 - 1x [Gummidurchführung](https://www.amazon.de/gp/product/B0919FYWQ1)
 ### Pläne
